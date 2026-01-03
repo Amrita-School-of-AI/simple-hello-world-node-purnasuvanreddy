@@ -48,3 +48,4 @@ ros2 run ros2_hello_world hello_node
 [INFO] [1700000001.123456789] [hello_world_node]: Hello, World!
 ...
 ```
+
